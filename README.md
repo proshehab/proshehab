@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sheab Bin Shakeb</h1>
 <h3 align="center">Full-stack Laravel Developer</h3>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **E-commerce Project**
 
-- 🌱 I’m currently learning **Laravel, Full-stack Laravel & VueJS Developer**
+- 🌱 I’m currently learning **Laravel, Full-stack Laravel & VueJS
 
 - 🤝 I’m looking for help with **Web Development**
 
