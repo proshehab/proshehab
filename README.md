@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **Laravel, PHP, Vue**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
