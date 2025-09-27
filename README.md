@@ -1,17 +1,39 @@
-<h1 align="center">Hi 👋, I'm Sheab Bin Shakeb</h1>
-<h3 align="center">Full-stack Laravel Developer</h3>
+# Hi 👋, I'm Amdad  
+### 🚀 Full-Stack Laravel Developer | PHP | Vue.js | React.js | MySQL  
 
-- 🔭 I’m currently working on **Laravel and React Project**
+💡 Passionate about building **scalable web applications** and **modern UI/UX**.  
+🔭 Currently working on Laravel projects like **Car Rental System, POS, Dispatch Tracking, Blog Website, and Food Ordering System**.  
+🌱 Learning **advanced Vue 3, React, and API integrations**.  
+💬 Ask me about **Laravel, PHP, Vue.js, REST APIs, MySQL, TailwindCSS**.  
+📫 Reach me at: **[your email here]**  
+⚡ Fun fact: I love solving real-world problems with clean and maintainable code.  
 
-- 🌱 I’m currently learning **Laravel, Full-stack Laravel & VueJS Developer**
+---
 
-- 🤝 I’m looking for help with **Web Development**
+## 🛠️ Tech Stack
+- **Languages:** PHP, JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** Laravel, Vue.js, React.js, Inertia.js, Bootstrap, TailwindCSS  
+- **Database:** MySQL, PostgreSQL  
+- **Tools:** Git, Composer, NPM, Postman, VS Code, Docker  
 
-- 💬 Ask me about **Vue**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📌 Featured Projects
+- 🚗 [Car Rental System](#) – Role-based dashboards for admins & customers.  
+- 🍔 [Fast Food Ordering System](#) – Online food ordering with admin panel.  
+- 🛒 [POS System](#) – Sales, inventory, barcode, and reporting.  
+- ✍️ [Blog Website](#) – User login, posts, comments, and author pages.  
+- 📦 [Dispatch Tracking App](#) – Barcode scanning and shipment tracking.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+## 📊 GitHub Stats
+![Amdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amdad121&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amdad121&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)  
