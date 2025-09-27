@@ -1,4 +1,4 @@
-# Hi 👋, I'm Amdad  
+# Hi 👋, Md. Sheab Bin Shakeb
 ### 🚀 Full-Stack Laravel Developer | PHP | Vue.js | React.js | MySQL  
 
 💡 Passionate about building **scalable web applications** and **modern UI/UX**.  
