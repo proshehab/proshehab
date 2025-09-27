@@ -1,20 +1,20 @@
 # Hi 👋, Md. Sheab Bin Shakeb
-### 🚀 Full-Stack Laravel Developer | PHP | Vue.js | React.js | MySQL  
+### 🚀 Full-Stack Laravel Developer | PHP | Vue.js | MySQL  
 
 💡 Passionate about building **scalable web applications** and **modern UI/UX**.  
 🔭 Currently working on Laravel projects like **Car Rental System, POS, Dispatch Tracking, Blog Website, and Food Ordering System**.  
-🌱 Learning **advanced Vue 3, React, and API integrations**.  
+🌱 Learning **advanced Vue 3, and API integrations**.  
 💬 Ask me about **Laravel, PHP, Vue.js, REST APIs, MySQL, TailwindCSS**.  
-📫 Reach me at: **[your email here]**  
+📫 Reach me at: **[shehab.shakib@gmail.com]**  
 ⚡ Fun fact: I love solving real-world problems with clean and maintainable code.  
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** PHP, JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** Laravel, Vue.js, React.js, Inertia.js, Bootstrap, TailwindCSS  
+- **Frameworks & Libraries:** Laravel, Vue.js, Inertia.js, Bootstrap, TailwindCSS  
 - **Database:** MySQL, PostgreSQL  
-- **Tools:** Git, Composer, NPM, Postman, VS Code, Docker  
+- **Tools:** Git, Composer, NPM, Postman, VS Code
 
 ---
 
