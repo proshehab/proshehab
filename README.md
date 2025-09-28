@@ -5,7 +5,7 @@
 🔭 Currently working on Laravel projects like **Car Rental System, POS, Dispatch Tracking, Blog Website, and Food Ordering System**.  
 🌱 Learning **advanced Vue 3, and API integrations**.  
 💬 Ask me about **Laravel, PHP, Vue.js, REST APIs, MySQL, TailwindCSS**.  
-📫 Reach me at: **[shehab.shakib@gmail.com]**  
+📫 Reach me at: **[sheab.shakeb@gmail.com]**  
 ⚡ Fun fact: I love solving real-world problems with clean and maintainable code.  
 
 ---
@@ -34,4 +34,4 @@
 ---
 
 ## 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shehab.shakib@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheab.shakeb@gmail.com)  
