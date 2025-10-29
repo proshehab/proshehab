@@ -1,11 +1,6 @@
 <!-- Animated typing banner -->
 <h1 align="center">Hi there 👋, I'm Md. Sheab Bin Shakeb</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Laravel+%26+React+Developer;💻+PHP+%7C+Vue.js+%7C+TypeScript+%7C+MySQL;✨+Building+Scalable+Web+Applications;⚡+Lover+of+Clean+Code+%26+Modern+UI%2FUX" alt="Typing SVG" />
-</p>
-
-
 ---
 
 💡 Passionate about building **scalable web applications** and **modern UI/UX**.  
