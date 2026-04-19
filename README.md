@@ -2,14 +2,6 @@
 <h1 align="center">👋 Hi, I'm Md. Sheab Bin Shakeb</h1>
 <h3 align="center">🚀 Laravel Developer | Full Stack Engineer | Problem Solver</h3>
 
-<p align="center">
-  <a href="mailto:sheab.shakeb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/amdad121">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
