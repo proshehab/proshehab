@@ -1,87 +1,114 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">👋 Hi, I'm Md. Sheab Bin Shakeb</h1>
-<h3 align="center">🚀 Laravel Developer | Full Stack Engineer | Problem Solver</h3>
+<!-- ========================================= -->
+<!--              HEADER SECTION              -->
+<!-- ========================================= -->
 
+<div align="center">
 
----
+# 👨‍💻 Md. Sheab Bin Shakeb
 
-<!-- ================= ABOUT ================= -->
-## 🧠 About Me  
+### 🚀 Full Stack Laravel Developer • Backend Engineer • UI Enthusiast
 
-💡 I build **scalable backend systems** and **modern frontend interfaces**  
-🔧 Specialized in **Laravel + React/Vue ecosystems**  
-📦 Focused on **real-world business applications**  
-📍 Based in Bangladesh  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Laravel+Developer;Full+Stack+Engineer;React+%26+Vue+Developer;Building+Real+World+Applications;Clean+Code+%7C+Modern+UI+%7C+Scalable+Systems" />
 
-🔥 Currently Working On:  
-- 🚗 Car Rental System  
-- 🍔 Food Ordering Platform  
-- 🛒 POS & Inventory System  
-- 📦 Dispatch Tracking System  
+<br/>
 
-🌱 Learning:  
-`Advanced Vue 3` • `React + TypeScript` • `API Architecture`
+<img src="https://komarev.com/ghpvc/?username=amdad121&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
-<!-- ================= SKILLS ================= -->
-## ⚒️ Tech Stack  
+# 💫 About Me
 
-### 💻 Languages  
-<p>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 👋 Hello!
+
+I’m a passionate **Laravel Full Stack Developer** from **Bangladesh 🇧🇩**  
+I love building **real-world business applications**, scalable backend systems, and clean modern user interfaces.
+
+### 🔥 Current Focus
+- 🚗 Car Rental Management System
+- 🍔 Food Ordering Platform
+- 🛒 POS & Inventory Management
+- 📦 Dispatch & Tracking System
+
+### 🌱 Currently Learning
+- ⚛️ React + TypeScript
+- 💚 Advanced Vue 3
+- 🔌 API Architecture & Performance
+
+### 💡 Development Philosophy
+> Clean Code • Smart Architecture • Better User Experience
+
+---
+
+# ⚒️ Tech Stack
+
+<div align="center">
+
+## 💻 Languages
 <img src="https://skillicons.dev/icons?i=php,js,ts,html,css" />
-</p>
 
-### ⚙️ Frameworks & Libraries  
-<p>
+---
+
+## ⚙️ Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=laravel,react,vue,tailwind,bootstrap" />
-</p>
-
-### 🗄️ Database  
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-### 🧰 Tools  
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,vite" />
-</p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects  
+## 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
-| Project | Description | Tech |
-|--------|------------|------|
-| 🚗 Car Rental System | Role-based booking & management system | Laravel |
+---
+
+## 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,npm" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 📄 Description | ⚡ Technology |
+|------------|----------------|---------------|
+| 🚗 Car Rental System | Booking, role management, rentals | Laravel |
 | 🍔 Food Ordering System | Online ordering + admin dashboard | Laravel |
-| 🛒 POS System | Sales, inventory, barcode system | Laravel |
-| ✍️ Blog Website | Posts, comments, authentication | Laravel |
-| 📦 Dispatch Tracker | Shipment tracking + barcode scan | Laravel |
-| ⚛️ React Dashboard | Dynamic UI dashboard | React + TS |
+| 🛒 POS System | Inventory, barcode & sales management | Laravel |
+| ✍️ Blog Website | Authentication, comments & posts | Laravel |
+| 📦 Dispatch Tracker | Shipment tracking & barcode scan | Laravel |
+| ⚛️ React Admin Dashboard | Modern responsive admin panel | React + TypeScript |
+
+</div>
 
 ---
 
-<!-- ================= STATS ================= -->
-## 📊 GitHub Stats  
+# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amdad121&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amdad121&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=amdad121&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-
-<!-- ================= QUOTE ================= -->
-## 💬 Developer Mindset  
-
-> “Clean code always wins. Simple scales. Complexity fails.”  
+</div>
 
 ---
 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  ⚡ Building real-world systems with passion & precision  
-</p>
+# 💬 Developer Mindset
+
+<div align="center">
+
+### ✨ “Clean code always wins.  
+### 🚀 Simple scales. Complexity fails.”
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Building Real-World Systems With Passion & Precision
+
+</div>
