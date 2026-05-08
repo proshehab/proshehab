@@ -73,13 +73,6 @@
 
 ---
 
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdad121&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
 
 <!-- ================= QUOTE ================= -->
 ## 💬 Developer Mindset  
